@@ -1,0 +1,8 @@
+require "pry"
+require "rspec"
+require "capybara/rspec"
+require_relative "../lib/card"
+require_relative "../lib/dealer"
+require_relative "../lib/deck"
+require_relative "../lib/hand"
+require_relative "../lib/player"
